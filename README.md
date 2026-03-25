@@ -1,9 +1,9 @@
-# Currículo - GitHub Pages
+# GitHub Pages
 
 Este pacote está pronto para ser publicado em um repositório vazio usando GitHub Pages.
 
 ## Arquivos
-- `index.html`: página principal do currículo
+- `index.html`: página principal 
 - `.nojekyll`: evita processamento do Jekyll e reduz risco de conflito com arquivos estáticos
 
 ## Como publicar no GitHub Pages
